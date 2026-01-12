@@ -1,4 +1,24 @@
 # 🔍 Projeto de Reconhecimento Facial com Dataset Customizado
+---
+
+## 🎥 Demonstração
+
+[▶️ Assista ao vídeo completo](https://youtu.be/1YPzs-VBh0s)
+
+
+O vídeo demonstra o modelo funcionando em:
+
+* 📷 **Imagens estáticas**
+* 🎥 **Vídeos curtos**
+
+Utilizando:
+
+* Fotos de celebridades
+* Vídeos públicos de celebridades
+
+> ⚠️ Uso apenas para fins **educacionais e demonstrativos**.
+
+---
 
 ## 📌 Visão Geral
 
@@ -60,24 +80,6 @@ dataset/
 
 ---
 
-## 🎥 Demonstração
-
-[▶️ Assista ao vídeo completo](https://youtu.be/1YPzs-VBh0s)
-
-
-O vídeo demonstra o modelo funcionando em:
-
-* 📷 **Imagens estáticas**
-* 🎥 **Vídeos curtos**
-
-Utilizando:
-
-* Fotos de celebridades
-* Vídeos públicos de celebridades
-
-> ⚠️ Uso apenas para fins **educacionais e demonstrativos**.
-
----
 
 ## 🧪 Resultados Esperados (Neste Estágio)
 
