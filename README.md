@@ -62,7 +62,7 @@ dataset/
 
 ## 🎥 Demonstração
 
-[![Demonstração do modelo](https://img.youtube.com/vi/ID_DO_VIDEO/0.jpg)]((https://youtu.be/1YPzs-VBh0s))
+[▶️ Assista ao vídeo completo](https://youtu.be/1YPzs-VBh0s)
 
 
 O vídeo demonstra o modelo funcionando em:
