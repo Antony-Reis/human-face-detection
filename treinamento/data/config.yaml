@@ -1,0 +1,6 @@
+path: C:/Users/User/Documents/VISAOCOMPUTACIONAL/deteccaorosto/data
+train: images/train
+val: images/train
+
+names:
+  0: human face
