@@ -40,27 +40,13 @@ Estrutura esperada do dataset:
 ```
 dataset/
 ├── images/
-│   ├── train/
-│   └── val/
+│   └── train/  
 └── labels/
-    ├── train/
-    └── val/
+    └── train/
 ```
 
 > 💡 **Ponto crítico:** Com apenas 150 imagens, a qualidade da anotação tem impacto maior que a quantidade.
 
----
-
-## 🛠️ Tecnologias Utilizadas
-
-* Python
-* PyTorch
-* OpenCV
-* YOLO (Ultralytics)
-* NumPy
-* Matplotlib
-
----
 
 ## 🚀 Pipeline do Projeto
 
@@ -74,33 +60,10 @@ dataset/
 
 ---
 
-## 📈 Treinamento
-
-* Dataset pequeno para facilitar:
-
-  * Debug
-  * Análise de erro
-  * Ajuste de hiperparâmetros
-
-* Estratégia:
-
-  * Poucos epochs iniciais
-  * Observação de overfitting
-  * Ajustes progressivos
-
-> 🎯 **Trade-off consciente:** rapidez de iteração vs capacidade de generalização.
-
----
-
 ## 🎥 Demonstração
 
-### 🔗 Vídeo de Demonstração
+[![Demonstração do modelo](https://img.youtube.com/vi/ID_DO_VIDEO/0.jpg)]((https://youtu.be/1YPzs-VBh0s))
 
-> 📌 **Inserir link do vídeo aqui**
-
-```text
-[LINK DO VÍDEO DE DEMONSTRAÇÃO]
-```
 
 O vídeo demonstra o modelo funcionando em:
 
@@ -120,15 +83,5 @@ Utilizando:
 
 * Detecção funcional de rostos
 * Baixa generalização em cenários muito distintos
-* Possível overfitting (esperado)
-
+* 
 > ✅ Esses resultados **não são falhas**, mas **dados de aprendizado**.
-
----
-
-## 🔮 Próximos Passos
-
-* Aumentar o dataset (300 → 500 → 1000+ imagens)
-* Data augmentation
-* Ajuste fino de hiperparâmetros
-* Comparação entre arquite
