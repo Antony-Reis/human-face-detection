@@ -3,7 +3,7 @@
 
 ## 🎥 Demonstração
 
-[▶️ Assista ao vídeo completo](https://youtu.be/1YPzs-VBh0s)
+[▶️ Assista ao vídeo completo](https://youtu.be/4mbWwbWrljY)
 
 
 O vídeo demonstra o modelo funcionando em:
